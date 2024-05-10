@@ -103,7 +103,7 @@ namespace UCGS.KillInfo
             { "Punch", "ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ was punched by ᐸcolor=#94b74aᐳ{1}ᐸ/colorᐳ from a distance ᐸcolor=#864ab7ᐳ{2}ᐸ/colorᐳ m!" },
             { "RoadKill","ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ shot down by ᐸcolor=#94b74aᐸcolor=#94b74aᐳ{1}ᐸ/colorᐳᐸ/colorᐳ" },
             { "BLEEDING", "ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ died of blood loss!"},
-            { "BONES", "ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ bones"},
+            { "BONES", "ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ died of broken bones!"},
             { "FREEZING", "ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ frozen!}"},
             { "BURNING", "ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ was killed by fire!}"},
             { "FOOD", "ᐸcolor=#94b74aᐳ{0}ᐸ/colorᐳ starved to death" },
